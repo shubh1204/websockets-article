@@ -1,4 +1,4 @@
-# [Article Link](https://medium.com/@shubham.mdsk/websocket-based-streaming-with-fast-api-and-local-llama-3-46f88eda71a2)
+# [Websocket based Streaming with Fast API and Local LLAMA 3](https://medium.com/@shubham.mdsk/websocket-based-streaming-with-fast-api-and-local-llama-3-46f88eda71a2)
 
 Large Language Models (LLMs) may require a significant amount of time to generate complete response to queries depending on the response size and token generation rate.
 Delivering the response from the API only after the LLM has fully generated it could result in a suboptimal user experience, as users would be left waiting on the interface with a loading screen for an extended duration.
